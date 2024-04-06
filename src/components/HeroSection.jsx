@@ -18,7 +18,7 @@ function HeroSection() {
             </span>
           </h1>
           <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-            I'm a skilled MERN stack developer proficient in MongoDB,
+            I'm a skilled MER(A)N stack developer proficient in MongoDB,
             Express.js, React.js, and Node.js, with a proven track record of
             building 15+ projects. Specializing in both front-end and back-end
             development, I excel in crafting dynamic user interfaces and
