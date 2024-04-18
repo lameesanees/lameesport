@@ -1,12 +1,12 @@
 import React from "react";
-
+import lamees from '../assets/lamees.png'
 function HeroSection() {
   return (
     <div id="hero" className="flex flex-column py-20">
       <div className="flex flex-col md:flex-row md:items-center">
         <img
-          src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490"
-          className="w-25 h-25 md:h-25 mb-6 md:mr-6" // Adjust size and styling as needed
+          src={lamees}
+          className="w-15 h-15 md:h-25 mb-6 md:mr-6" // Adjust size and styling as needed
           alt="Your Alt Text"
         />
         <div>
@@ -18,7 +18,7 @@ function HeroSection() {
             </span>
           </h1>
           <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-            I'm a skilled MER(A)N stack developer proficient in MongoDB,
+            I'm a skilled MERN stack developer proficient in MongoDB,
             Express.js, React.js, and Node.js, with a proven track record of
             building 15+ projects. Specializing in both front-end and back-end
             development, I excel in crafting dynamic user interfaces and
